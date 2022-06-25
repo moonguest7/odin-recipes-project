@@ -1,3 +1,3 @@
 # odin-recipes
-The Odin Project (recipes project)
-html projects that shows some recipes
+Recipe Webpage Project (The Odin Project)
+Very simple recipe website made with HTML and CSS
